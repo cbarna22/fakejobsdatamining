@@ -1,4 +1,4 @@
-# fakejobsdatamining
+# fake-jobs-datamining
 Detecting Fake Job Ads Using Datamining Techniques
 
 In this project, I built a script to detect whether an online job advertisement is real or fraudulent using Multinomial Naive Bayes and K-Nearest Neighbors algorithms. Employment scams are a serious issue which can result in applicants unintentionally giving their personal information to bad actors and potentially losing money. The job advertisement data is sourced from https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction. Dataset columns include job title, location, department, description, requirements, required experience, and more. 
